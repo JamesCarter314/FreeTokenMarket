@@ -1,6 +1,6 @@
-# SwapMarketplace: Info
+# FreeTokenMarket: Info
 
-A brief overview how Info part of SwapMarketplace website works.
+A brief overview how Info part of FreeTokenMarket website works.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ There are additional requests for price chart and search that are fired when use
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ynovate-workspace/SwapMartketplace.git
+git https://github.com/JamesCarter314/FreeTokenMarket.git
 ```
 2. Go to the project directory and install dependencies for both the client and server
 
@@ -67,4 +67,4 @@ npm install
 ```bash
 npm start
 ```
-# SwapMarketSys
+# FreeTokenMarket
